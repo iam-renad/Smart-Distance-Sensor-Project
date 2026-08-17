@@ -21,7 +21,7 @@ This project demonstrates how to integrate multiple hardware components with an 
 ![Circuit Diagram](circuit_diagram.jpg)
 
 ## Video Demonstration
-You can watch the project demonstration video here: [`project-demo.mov`](project-demo.mov)
+You can watch the project demonstration video here: [`project-demo.mov`](project_demo.MOV)
 
 ---
 
