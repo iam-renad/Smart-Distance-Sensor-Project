@@ -25,5 +25,5 @@ You can watch the project demonstration video here: [`project-demo.mov`](project
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 *Renad Hassan*
